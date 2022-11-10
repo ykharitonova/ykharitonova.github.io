@@ -1336,7 +1336,6 @@ input, select, textarea {
 			body, input, textarea, select {
 				font-size: 15pt;
 			}
-
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -1351,6 +1350,10 @@ input, select, textarea {
 
 			body, input, textarea, select {
 				font-size: 15pt;
+			}
+
+            #nav a {
+				font-size: 2em !important;
 			}
 
 		}
