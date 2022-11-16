@@ -33,6 +33,19 @@ body {
 	line-height: 1;
 }
 
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:hover {
+  color: orange;
+  text-decoration: underline;
+}
 ol, ul {
 	list-style: none;
 }
